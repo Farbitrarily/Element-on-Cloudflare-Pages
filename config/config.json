@@ -1,7 +1,7 @@
 {
     "default_server_config": {
         "m.homeserver": {
-            "base_url": "https://chat.fabbo.top",
+            "base_url": "https://fabbo.top",
             "server_name": "awau.uk"
         },
         "m.identity_server": {
