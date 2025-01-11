@@ -1,8 +1,8 @@
 {
     "default_server_config": {
         "m.homeserver": {
-            "base_url": "https://fabbo.top",
-            "server_name": "awau.uk"
+            "base_url": "https://chat.fabbo.top",
+            "server_name": "chat.fabbo.top"
         },
         "m.identity_server": {
             "base_url": "https://vector.im"
